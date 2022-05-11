@@ -1,1 +1,2 @@
 # Pokemones
+En esta aplicación 
